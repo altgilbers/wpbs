@@ -6,10 +6,8 @@ Description:  Bulk Subscribe lists of existing users into a role in an existing 
 Version:      1.0
 Author:       Ian Altgilbers
 Author URI:   http://altgilbers.com
-License:      
-License URI:  
-Text Domain:  
-Domain Path:  
+License:      GPL2
+License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 */
 
 // to make sure jquery is loaded..
